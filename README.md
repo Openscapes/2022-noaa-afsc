@@ -16,13 +16,13 @@ We will meet as a Cohort via Zoom four times over two months for 1.5 hours on fi
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1UV_lBdCUonF3E6uW7AEFTHtlv3m_mejf?usp=sharing); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas.
 
-Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
-------------------|----------------------|---------------------------
-1. Openscapes mindset | [mindset](#mindset), [better science in less time](#bsilt) | Seaside Chat (trailhead)
-2. GitHub for publishing & project management | [publishing](#github-pub), [project management](#github-issues) | Seaside Chat: shared organizing with GitHub
-3. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies) | Seaside Chat (code of conduct);<br>Co-working
-4. Open communities and coding strategies for future us | [open communities](#communities), [coding strategies](#coding-strategies) | Seaside Chat (pathway); Co-working
-5. Pathways share and next steps |  | 
+Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
+----| ------------------|----------------------|--------------------------------
+01/28 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset) | Pathway trailhead; create GitHub accounts 
+02/04 | 2. GitHub for publishing and project management <br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
+02/11 | 3. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
+02/25 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
+03/11 | 5. Pathways share |  | 
 
 <!---
 ## Participating teams
