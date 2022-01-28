@@ -24,6 +24,17 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 02/25 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
 03/11 | 5. Pathways share |  | 
 
+## Coworking times (optional)
+
+Julie - Tuesdays 11-12 PT. Feb 1, 15, Mar 1, 15
+
+Josh - Wednesdays 2-3:30 PT. Feb 2, 16, Mar 2, 16
+
+Em - Thursdays 11-12 PT. Feb 3, 17, Mar 3, 17
+
+Megsie - Fridays 10:30-11:30 PT. Feb 4, 18, Mar 4, 18
+
+
 <!---
 ## Participating teams
 
