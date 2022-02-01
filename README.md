@@ -38,19 +38,45 @@ Megsie - Fridays 10:30-11:30 PT. Feb 4, 18, Mar 4, 18
 <!---
 ## Participating teams
 
-These are the teams participating: please add any edits directly (we'll learn how in our GitHub Call!)
+These are the teams participating: please add any edits directly (we'll learn how in our GitHub Call!) Take some inspiration from here: https://github.com/Openscapes/2021-noaa-nmfs/blob/main/README.md
 
+Add:
+ - What kind of team you are (cross-divisional) or where you are from (division focusing on...)
+ - Links to your program and what you are working on together
+ - Desciptions of your potientail projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
+ - Who is on your team
 --->
+
+## Participating teams
+
+These are the teams participating: please edit this repo yourself following our GitHub Clinic!
+
+**The Shellfish Assessment Program Team** This team is focused on 1) improving annual Tech Memo and 2) improving collaboration on bitter crab disease reports. This team includes Mike Litzow, Jonathan Richar, Erin Fedewa, Leah Zacher (@LeahZacher-NOAA), and Jen Gardner. 
+
+**The AFSC Stock Assessment Team** The overaching goal of this group is to 1) create reproducible stock assessments and streamline reporting and presenting to Council bodies (specific project could be to take two assessments as examples: arrowtooth flounder and northern rockfish), 2) improve data to modeling to reporting for economic models, 3) creating consistent fishery data sources across science and management, and 4) discuss of CFI implementation. This team includes Kalei Shotwell, Meaghan Bryan, Jim Ianelli (@jimianelli-NOAA), Ben Williams (@BenWilliams-NOAA), Chris Lunsford, Alan Haynie (@alanhaynie-NOAA), and Anne Hollowed. 
+
+**The Fisheries Monitoring Team** This team is focused on improving the Annual Deployment Plan analytic and report production workflow and result sharing with council, stock assessors and the public. This team includes Craig Faunce (@CraigFaunce-NOAA), Phil Ganz (@philganz), Jennifer Cahalan, and Geoff Mayhew. 
+
+**The Trophic Roles of Ice Seals RWP Team** This team is focused on 1) developing regional work plan-funded project to estimate the consumption of dominant prey by ice-associated seals in the Bering & Chukchi seas. This team includes Stacie Hardy (@staciekozhardy), Peter Boveng (@PeterBoveng-NOAA), Heather Ziel (@zielhl), Michael Cameron (@MichaelCameron-NOAA), and Johanna Vollenweider (@JohannaPage-NOAA). 
+
+**The Groundfish Food Habits Team** This team is focused on streamlining reproducable flow of code and data to provide food habits and model data to ESRs, ESPs, and stock assessments. This team includes Kerim Aydin, Kirstin Holsman, Bridget Ferriss (@BridgetFerriss), Geoff Lang, and Jonathan Reum.	
+
+**The EcoFOCI Ecosystem Indicators Team** This team aims to on streamline, document, and standardize survey data analysis and annual reporting of EcoFOCI ecosystem indicators for ESRs and ESPs. This team includes Lauren	Rogers, Jesse	Lamb (@jesseflamb), Kelia Axler (@keliaaxler), Ali Deary (@AlisonDeary-NOAA), and David Kimmel)
+
+**The Marine Mammal Stock Assessments Team** This team aims to streamline the development, review, and publication of the annual Alaska marine mammal stock assessment reports. This team includes Nancy Young (@nancycyoung), Brian Fadely (@BFadely), Erin Richmond, Rod Towell, Tony Orr, and Erin Richmond (@erinrichmond). 
+
+**The Midwater pollock Assessment Team** This team aims to create a reproducible and transparent abundance analysis and reporting process for the management of midwater walleye pollock data in Alaska. This team includes Mike Levine, Sarah Stienessen, Nate Lauffenburger, Sam Urmy (@ElOceanografo), and Abigail McCarthy. 	
+
 
 ## Openscapes team
 
-**Julie Lowndes**, Openscapes Co-Director, NCEAS, UCSB, is co-leading
+**Julie Lowndes** (@jules32), Openscapes Co-Director, NCEAS, UCSB, is co-leading
 
-**Josh London**, AFSC, is assisting
+**Josh London** (@jmlondon), AFSC, is assisting
 
-**Em Markowitz**, AFSC, is assisting
+**Em Markowitz** (@EmilyMarkowitz-NOAA), AFSC, is assisting
 
-**Megsie Siple**, AFSC, is assisting
+**Megsie Siple** (@MargaretSiple-NOAA), AFSC, is assisting
 
 
 ## More about Openscapes and the Champions program:
