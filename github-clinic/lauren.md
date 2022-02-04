@@ -11,6 +11,17 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+2. chocolate
+
+## Chocolate cake is the best.
+
+I'll try a new list too.
+
+1. peanuts
+2. raisins
+3. almonds
+4. cashews
+5. 
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
