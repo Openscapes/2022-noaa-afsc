@@ -30,4 +30,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
-![Whale](https://en.wikipedia.org/wiki/Whale#/media/File:Southern_right_whale.jpg)
+![](https://en.wikipedia.org/wiki/Whale#/media/File:Southern_right_whale.jpg)
