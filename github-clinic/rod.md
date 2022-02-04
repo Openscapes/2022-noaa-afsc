@@ -4,7 +4,22 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
+Making changes, learning new stuff
+
+# dooby
+
+## dooby do
+
 ## We can make headers.
+
+1. 1
+2. 2
+3. 3
+4. 
+
+twelve
+fourteen
+sixteen
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
