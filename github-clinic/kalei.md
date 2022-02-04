@@ -26,3 +26,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 **Click the "edit pencil and play around – what else can you change or add?**
 
 ***Adding a new subheading
+![POP_Condition](https://user-images.githubusercontent.com/7442917/152600223-f91a71ad-53d2-45d1-a13c-9fc7d5514cfc.PNG)
