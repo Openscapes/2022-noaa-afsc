@@ -15,7 +15,8 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. cakes
 
 ## Types of Dogs
-  1. Corgi
+![](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14112506/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg)
+  1. Corgi 
   2. Pitbull
   3. Border Collie
 
