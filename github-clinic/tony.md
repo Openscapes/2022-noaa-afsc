@@ -6,6 +6,9 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
+Adding text here to perform an edit.
+Practicing to make words in **bold** and *italic* as well.
+
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. bananas

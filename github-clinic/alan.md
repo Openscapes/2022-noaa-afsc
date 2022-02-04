@@ -6,6 +6,8 @@ We can make words **bold** or *italic*.
 
 OK, test 1 change.
 
+
+
 ## We can make headers.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
@@ -13,6 +15,10 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+1. [po-boys](https://www.whereyaatmatt.com/)
+2. burgers
+
+[Poboys](https://www.whereyaatmatt.com/) are delicious.
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 

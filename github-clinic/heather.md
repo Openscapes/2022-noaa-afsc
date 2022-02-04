@@ -25,4 +25,14 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
+**very confused**
 
+lists
+1. skiing
+2. swimming
+3. jogging
+4. *biking*
+
+drone options 
+1. Drone-works (https://drone-works.com/)
+2. Influential drones (https://influentialdrones.com/products/mavic-2-enterprise-advanced)

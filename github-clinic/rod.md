@@ -1,8 +1,10 @@
-# The power of open science: publishing with GitHub
+# The power of open science: publishing with GitHub by Rod!
 
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
 We can make words **bold** or *italic*.
+
+# stuck in proposed
 
 ## We can make headers.
 

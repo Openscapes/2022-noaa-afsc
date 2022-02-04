@@ -9,7 +9,7 @@ We can make words **bold** or *italic*.
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. tanners
-1. opie
+1. opies
 1. red king crab
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
@@ -19,7 +19,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
-![](https://octodex.github.com/images/labtocat.png)
+Here's a different figure.
+![](https://github.com/mikelitzow/fish-FAR/blob/main/figs/Fig1.png)
 
 ## Your turn
 

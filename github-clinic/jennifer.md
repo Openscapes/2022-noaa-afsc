@@ -12,6 +12,8 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. tamales
 1. cakes
 
+## Or how about a new header!
+
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
@@ -25,4 +27,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
-
+[Click here](https://docs.google.com/document/d/11QYqbwBEG8Fr4mDaeOE26hKZZEcttWq4TTyjsRnAUTw/edit) to add your name and what you did this week!

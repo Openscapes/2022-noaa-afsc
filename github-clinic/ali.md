@@ -4,6 +4,8 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
+Scientific name **practice** *Gadus chalcogrammus*, *Boreogadus saida* 
+
 ## We can make headers.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
@@ -11,6 +13,16 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+
+## Types of Dogs
+![](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14112506/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg)
+  1. Corgi 
+  2. Pitbull
+  3. Border Collie
+
+Good to know, you need a space after the double hashtag to make a subheader
+
+Dog website to learn all about [dogs](https://www.akc.org/dog-breeds/)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 

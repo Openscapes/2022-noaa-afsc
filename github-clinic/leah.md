@@ -28,5 +28,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
-###A new small header here
+## A new small header here
 

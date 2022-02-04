@@ -2,7 +2,7 @@
 
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
-We can make words **bold** or *italic*.
+We can make words **bold** or *italic*. **Sarah Stienessen** is *awesome!*
 
 ## We can make headers.
 
