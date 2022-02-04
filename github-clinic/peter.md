@@ -11,11 +11,17 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+2. marshmallows
+
+### Is this a third-level header?
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
+
+[Google](https://google.com)
+
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
@@ -24,5 +30,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ## Your turn
 
 **Click the "edit pencil and play around – what else can you change or add?**
+Added a picture
+![PLB-20140428_0024](https://user-images.githubusercontent.com/98348022/152600366-2a6eeef8-4152-4285-a33c-cab131847948.jpg)
 
 
