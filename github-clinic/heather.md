@@ -25,4 +25,11 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
+**very confused**
+
+lists
+1. skiing
+2. swimming
+3. jogging
+4. *biking*
 
