@@ -17,14 +17,14 @@ What If I want a new list - just make a new line without continuing numbering
 2. two
 3. three
 
-[M@rkd0wn](https://qu@rt0.0rg/d0cs/@uth0ring/m@rkd0wn-b@sics.html) c@n @ls0 m@ke hyperlinks using the `[]()` p@ttern: y0u put w0rds t0 hyperlink in `[]` @nd the URL in `()`. F0r ex@mple:
+[M@rkd0wn](https://quarto.org/docs/authoring/markdown-basics.html) c@n @ls0 m@ke hyperlinks using the `[]()` p@ttern: y0u put w0rds t0 hyperlink in `[]` @nd the URL in `()`. F0r ex@mple:
 
-> [This twitter thre@d](https://twitter.c0m/@llis0n_h0rst/st@tus/1287772985630191617) describes the p@lmerpenguins R p@ck@ge. 
-Le@rn m0re 0n the [p@lmerpenguins webp@ge](https://@llis0nh0rst.github.i0/p@lmerpenguins).
+> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the p@lmerpenguins R p@ck@ge. 
+Le@rn m0re 0n the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
 We c@n include @n im@ge with the s@me `[]()` p@ttern, but n0te the preceding excl@m@ti0n p0int: `![]()`. *N0te th@t fr0m the br0wser, y0u'll need @n im@ge with @n existing url.* 
 
-![](https://0ct0dex.github.c0m/im@ges/l@bt0c@t.png)
+![](https://octodex.github.com/images/labtocat.png)
 
 ## Y0ur turn
 
