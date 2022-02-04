@@ -12,6 +12,11 @@ We c@n m@ke lists th@t @re @ut0m@gic@lly numbered – *n0te th@t lists need @ c@
 1. t@m@les
 1. c@kes
 
+What If I want a new list - just make a new line without continuing numbering
+1. one
+2. two
+3. three
+
 [M@rkd0wn](https://qu@rt0.0rg/d0cs/@uth0ring/m@rkd0wn-b@sics.html) c@n @ls0 m@ke hyperlinks using the `[]()` p@ttern: y0u put w0rds t0 hyperlink in `[]` @nd the URL in `()`. F0r ex@mple:
 
 > [This twitter thre@d](https://twitter.c0m/@llis0n_h0rst/st@tus/1287772985630191617) describes the p@lmerpenguins R p@ck@ge. 
