@@ -8,8 +8,8 @@ We can make words **bold** or *italic*.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
-1. bananas
-1. tamales
+1. I got into GIT!
+1. I love the coding tips in here
 1. cakes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
