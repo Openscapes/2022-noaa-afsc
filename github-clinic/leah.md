@@ -4,6 +4,8 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
+Here is some italic: *Briarosaccus callosus* and some bold **Rhizocephalan**
+
 ## We can make headers.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
@@ -26,4 +28,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
+###A new small header here
 
