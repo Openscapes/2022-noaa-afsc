@@ -4,7 +4,11 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
-Adding a hello
+Adding a **hello**
+
+1. hi
+1. hello
+1. hey
 
 ## We can make headers.
 
