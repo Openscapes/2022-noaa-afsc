@@ -26,6 +26,7 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+![download](https://user-images.githubusercontent.com/96262778/152600306-004b7c6a-8cce-4d2f-b28e-ea54c05d2da5.jpg)
 
 ## Your turn
 
