@@ -4,13 +4,15 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
+We can insert emoji using colons, for example :sparkles: if you type `:sparkles:` (full ref list [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))
+
 ## We can make headers.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
-1. bananas
-1. tamales
-1. cakes
+1. bananas 🍌
+1. tamales 🫔
+1. cakes 🍰
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
