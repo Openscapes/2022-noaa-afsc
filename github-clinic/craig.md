@@ -9,8 +9,14 @@ We can make words **bold** or *italic*.
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. bananas
-1. tamales
-1. cakes
+2. tamales
+3. cakes
+
+A lot of times these items are not related.  For example, I might make a list like this:
+
+1. Cookies
+2. Congress
+3. Orange
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -21,8 +27,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://octodex.github.com/images/labtocat.png)
 
-## Your turn
-
-**Click the "edit pencil and play around – what else can you change or add?**
+## Here is a header again.  Hi.  
+### Wondering if this is a subheader?
 
 
