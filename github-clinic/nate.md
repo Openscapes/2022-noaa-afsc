@@ -23,6 +23,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ## Your turn
 
-**Click the "edit pencil and play around – what else can you change or add?**
+Trying my first commit!
 
 
