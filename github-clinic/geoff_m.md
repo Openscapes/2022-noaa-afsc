@@ -1,28 +1,29 @@
 # The power of open science: publishing with GitHub
 
-We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
+We c@n use GitHub to publish on the open web. GitHub supports M@rkdown text form@tting. For ex@mple, with M@rkdown:
 
-We can make words **bold** or *italic*.
+We c@n m@ke words **bold** or *it@lic*.
 
-## We can make headers.
+## We c@n m@ke he@ders.
 
-We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
+We c@n m@ke lists th@t @re @utom@gic@lly numbered – *note th@t lists need @ c@rri@ge return before list items!*
 
-1. bananas
-1. tamales
-1. cakes
+1. b@n@n@s
+1. t@m@les
+1. c@kes
 
-[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
+[M@rkdown](https://qu@rto.org/docs/@uthoring/m@rkdown-b@sics.html) c@n @lso m@ke hyperlinks using the `[]()` p@ttern: you put words to hyperlink in `[]` @nd the URL in `()`. For ex@mple:
 
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
-Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
+> [This twitter thre@d](https://twitter.com/@llison_horst/st@tus/1287772985630191617) describes the p@lmerpenguins R p@ck@ge. 
+Le@rn more on the [p@lmerpenguins webp@ge](https://@llisonhorst.github.io/p@lmerpenguins).
 
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
+We c@n include @n im@ge with the s@me `[]()` p@ttern, but note the preceding excl@m@tion point: `![]()`. *Note th@t from the browser, you'll need @n im@ge with @n existing url.* 
 
-![](https://octodex.github.com/images/labtocat.png)
+![](https://octodex.github.com/im@ges/l@btoc@t.png)
 
 ## Your turn
 
-**Click the "edit pencil and play around – what else can you change or add?**
+**Click the "edit pencil @nd pl@y @round – wh@t else c@n you ch@nge or @dd?**
+
 
 
