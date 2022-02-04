@@ -3,10 +3,10 @@
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
 We can make words **bold** or *italic*.
-
+**Hellooooo**
 ## We can make headers.
 
-We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
+We can make lists that are *automagically* numbered – *note that lists need a carriage return before list items!*
 
 1. bananas
 1. tamales
