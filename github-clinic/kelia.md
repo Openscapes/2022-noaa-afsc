@@ -29,4 +29,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 testing
 
 1. numerical ordering test
-2. test
+1. two
+1. three
