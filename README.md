@@ -76,7 +76,7 @@ These are the teams participating: please edit this repo yourself following our 
 
 **Em Markowitz** (@EmilyMarkowitz-NOAA), AFSC, is assisting
 
-**Megsie Siple** (@MargaretSiple-NOAA), AFSC, is assisting
+**Megsie Siple** (@MargaretSiple-NOAA), AFSC, is a brilliant genius
 
 
 ## More about Openscapes and the Champions program:
