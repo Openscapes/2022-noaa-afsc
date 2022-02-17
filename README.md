@@ -72,11 +72,11 @@ These are the teams participating: please edit this repo yourself following our 
 
 **Julie Lowndes** (@jules32), Openscapes Co-Director, NCEAS, UCSB, is co-leading
 
-**Josh London** (@jmlondon), AFSC, is a cool dude!
+**Josh London** (@jmlondon), AFSC, is assisting
 
 **Em Markowitz** (@EmilyMarkowitz-NOAA), AFSC, is assisting
 
-**Megsie Siple** (@MargaretSiple-NOAA), AFSC, is the best person ever!
+**Megsie Siple** (@MargaretSiple-NOAA), AFSC, is assisting
 
 
 ## More about Openscapes and the Champions program:
