@@ -51,7 +51,7 @@ Add:
 
 These are the teams participating: please edit this repo yourself following our GitHub Clinic!
 
-**The Shellfish Assessment Program Team This team is focused on 1) improving annual Tech Memo and 2) improving collaboration on bitter crab disease reports. This team included Mike Litzow (@mikelitzow), Jonathan Richar (@JonRichar-NOAA), Erin Fedewa (@Erin-Fedewa-NOAA), Leah Zacher (@LeahZacher-NOAA), and Jen Gardner (@JenniferGardner-NOAA).
+**The Shellfish Assessment Program Team** This team is focused on 1) improving annual Tech Memo and 2) improving collaboration on bitter crab disease reports. This team included Mike Litzow (@mikelitzow), Jonathan Richar (@JonRichar-NOAA), Erin Fedewa (@Erin-Fedewa-NOAA), Leah Zacher (@LeahZacher-NOAA), and Jen Gardner (@JenniferGardner-NOAA).
 
 **The AFSC Stock Assessment Team** The overarching goal of this group is to 1) create reproducible stock assessments and streamline reporting and presenting to Council bodies (specific project could be to take two assessments as examples: arrowtooth flounder and northern rockfish), 2) improve data to modeling to reporting for economic models, 3) creating consistent fishery data sources across science and management, and 4) discuss of CFI implementation. This team includes Kalei Shotwell (@kshotwell), Meaghan Bryan (@mdbryan), Jim Ianelli (@jimianelli-NOAA), Ben Williams (@BenWilliams-NOAA), Chris Lunsford (@chrislunsford-NOAA), Alan Haynie (@alanhaynie-NOAA), and Anne Hollowed.
 
