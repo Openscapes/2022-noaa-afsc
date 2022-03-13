@@ -64,6 +64,8 @@ The Trophic Roles of Ice Seals RWP Team This team is focused on 1) developing a 
 
 **The Marine Mammal Stock Assessments Team** This team aims to streamline the development, review, and publication of the annual Alaska marine mammal stock assessment reports. This team includes Nancy Young (@nancycyoung), Brian Fadely (@BFadely), Erin Richmond (@erinrichmond), Rod Towell (@rtowell), Tony Orr (@Tony-Orr), and Erin Richmond (@erinrichmond).
 
+**Trophic Roles of Ice Seals RWP** This team aims to develop a Regional Work Plan-funded project to estimate the consumption of dominant prey by ice-associated seals in the Bering & Chukchi seas. This team includes Stacie Hardy (staciekozhardy), Peter Boveng	(PeterBoveng-NOAA), Heather Ziel (zielhl), Michael Cameron	(MichaelCameron-NOAA), and Johanna Vollenweider	(JohannaPage-NOAA). 
+
 **The Midwater Pollock Assessment Team** This team aims to create a reproducible and transparent abundance analysis and reporting process for the management of midwater walleye pollock data in Alaska. This team includes Mike Levine (@mike-levine), Sarah Stienessen (@sstienessen), Nate Lauffenburger (@nlauffenburger), Sam Urmy (@ElOceanografo), and Abigail McCarthy (@abigailatsea).
 
 
