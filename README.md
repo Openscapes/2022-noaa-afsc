@@ -24,6 +24,8 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 02/25 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
 03/11 | 5. Pathways share |  | 
 
+[**Cohort Call Digests**](https://github.com/Openscapes/2022-noaa-afsc/issues?q=is%3Aissue+is%3Aopen+label%3Adigest)
+
 ## Coworking times (optional)
 
 Julie - Tuesdays 11-12 PT. Feb 1, 15, Mar 1, 15
